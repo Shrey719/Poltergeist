@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+.title_text {
+    color: white;
+    text-align: center;
+}
+
+.input_search {
+    background-color: rgb(51, 51, 51);
+    border: 0.1rem solid black;
+    height: 10vh;
+    width: 30vw;
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+}
+
+.version {
+    text-align: left;
+    font-weight: bold;
+}
+.input_all {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

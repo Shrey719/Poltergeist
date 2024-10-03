@@ -2,6 +2,7 @@
   "name": "poltergeist",
   "version": "1.0.0",
   "description": "A Minimalist web proxy ",
+  "type": "module",
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js"
