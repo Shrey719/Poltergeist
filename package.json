@@ -1,0 +1,25 @@
+{
+  "name": "poltergeist",
+  "version": "1.0.0",
+  "description": "A Minimalist web proxy ",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrey719/Poltergeist.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Shrey719",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrey719/Poltergeist/issues"
+  },
+  "homepage": "https://github.com/shrey719/Poltergeist#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
