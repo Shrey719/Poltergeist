@@ -9,3 +9,16 @@ body {
     -ms-transform: translateY(-50%);
     transform: translateY(-45%); /*Praying that this dosent fuck me down the line*/
 }
+
+.tabs {
+    align-items: start;
+    color: white;   
+}
+.tabs button {
+    background-color: rgb(56, 56, 56);
+    color: white;
+    width: 10vw;
+    height: 7.5vh;
+    border-radius: 0.5rem;
+    border: none;
+}
